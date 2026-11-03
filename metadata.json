@@ -1,0 +1,8 @@
+{
+  "name": "Remix KNet PayLink - منشئ وبوابة الدفع الذكية",
+  "description": "نظام متكامل لإنشاء روابط دفع KNet فريدة ومحاكاة بوابات الدفع الإلكترونية في دولة الكويت مع تتبع العمليات والإيصالات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
